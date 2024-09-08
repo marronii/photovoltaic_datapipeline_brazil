@@ -1,4 +1,4 @@
-# Pipeline de Dados Fotovoltaicos Brasil
+# Pipeline de Dados de Energia Solar no Brasil
 
 ## 🎯 Objetivos
 
